@@ -32,7 +32,7 @@ maven { url 'https://jitpack.io' }
 
 ```gradle
 dependencies {
-  compile 'com.github.iammert:rangeview:0.1'
+        implementation 'com.github.iammert:VideoMetadataProvider:0.1'
 }
 ```
 
